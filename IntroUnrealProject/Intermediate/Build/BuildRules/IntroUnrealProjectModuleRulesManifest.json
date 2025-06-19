@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\Unreal\\IntroUnrealProject\\IntroUnrealProject\\Source\\IntroUnrealProject\\IntroUnrealProject.Build.cs",
+		"C:\\Projects\\Unreal\\IntroUnrealProject\\IntroUnrealProject\\Source\\IntroUnrealProject.Target.cs",
+		"C:\\Projects\\Unreal\\IntroUnrealProject\\IntroUnrealProject\\Source\\IntroUnrealProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
