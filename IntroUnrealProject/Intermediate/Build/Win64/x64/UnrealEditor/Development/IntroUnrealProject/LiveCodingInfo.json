@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.IntroUnrealProject.gen.cpp.obj": [
+			"AdventureGameMode.gen.cpp.obj",
+			"IntroUnrealProject.init.gen.cpp.obj"
+		]
+	}
+}
