@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\projects\\unreal\\introunrealproject\\introunrealproject\\source\\introunrealproject\\introunrealproject.cpp",
+        "Source": "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\source\\introunrealproject\\introunrealproject.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\projects\\unreal\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\x64\\introunrealprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\x64\\introunrealprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\projects\\unreal\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\introunrealproject\\definitions.introunrealproject.h",
-            "c:\\projects\\unreal\\introunrealproject\\introunrealproject\\source\\introunrealproject\\introunrealproject.h"
+            "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\introunrealproject\\definitions.introunrealproject.h",
+            "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\source\\introunrealproject\\introunrealproject.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

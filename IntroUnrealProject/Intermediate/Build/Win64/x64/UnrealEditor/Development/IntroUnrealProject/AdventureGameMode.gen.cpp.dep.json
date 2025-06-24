@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\introunrealproject\\uht\\adventuregamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\x64\\introunrealprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\introunrealproject\\definitions.introunrealproject.h",
+            "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\source\\introunrealproject\\adventuregamemode.h",
+            "d:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\unreal\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\unreal\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\projects\\unreal-intro\\introunrealproject\\introunrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\introunrealproject\\uht\\adventuregamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
